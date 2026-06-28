@@ -133,18 +133,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Screen
-* Dashboard
-* Charts
-* Excel Report
-* Word Cloud
-
----
-
 ## 👩‍💻 Author
 
 **Mansha Verma**
