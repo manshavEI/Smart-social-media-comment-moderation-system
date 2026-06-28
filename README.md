@@ -54,7 +54,7 @@ Smart-Social-Media-Comment-Moderation-System/
 
 ## ⚙️ How It Works
 
-1. Upload a dataset containing YouTube comments.
+1. Upload link of youtubr video.
 2. The application processes each comment using sentiment analysis.
 3. Each comment is classified as Positive, Neutral, or Negative.
 4. Harmful or highly negative comments are automatically flagged.
